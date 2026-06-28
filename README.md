@@ -49,6 +49,6 @@ python train_ant.py           # Phase 2: 默认训练
 python train_ant_tuned_v2.py  # Phase 3: 调 reward 训练
 python record_v2.py           # 录制演示视频
 ```
-| 随机策略 | Phase 2 默认训练 | Phase 3 v2 调参后 |
-| :---: | :---: | :---: |
-| [▶] ant_random.mp4 | [▶] ant_trained.mp4 | [▶] ant_tuned_v2.mp4 |
+| 随机策略 | Phase 2 | Phase 3 v2 |
+|:---:|:---:|:---:|
+| [▶ 播放](ant_random.mp4) | [▶ 播放](ant_trained.mp4) | [▶ 播放](ant_tuned_v2.mp4) |
